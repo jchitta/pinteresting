@@ -1,7 +1,8 @@
 # One Month Rails
-This is a Pinteresting sample application for [*One Month Rals*](http://onemonthrails.com)
+This is a Pinteresting sample application for [*One Month Rails*](http://onemonthrails.com)
 
 by [Mattan Griffel]
+
 == README
 
 This README would normally document whatever steps are necessary to get the
